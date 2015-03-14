@@ -1067,7 +1067,7 @@ POSTS & CONTENT STYLES
 /* line 322, ../scss/_base.scss */
 #about {
   background: #e64097;
-  height: auto;
+  height: 30px;
   position: fixed;
   width: 100%;
   bottom: 0;
@@ -2010,7 +2010,7 @@ you can add resource intensive styles.
   /* end .footer-links */
   /* line 187, ../scss/_768up.scss */
   #home article {
-    margin: 3em auto;
+    margin: 10% auto;
   }
   /* line 189, ../scss/_768up.scss */
   #home article img {
