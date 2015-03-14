@@ -146,9 +146,11 @@ h2, .h2 {
 	font-size: 1.75em;
 	line-height: 1.4em;
 	margin-bottom: 0.375em;
+	color: $brown;
 }
 
 h3, .h3 {
+	color: $brown;
 	font-size: 1.125em;
 }
 
@@ -988,3 +990,6 @@ FOOTER STYLES
 
 	.copyright {}
 
+.fa:hover {
+	color: $pink;
+}
