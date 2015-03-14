@@ -1144,7 +1144,7 @@ POSTS & CONTENT STYLES
   height: 100px;
   width: 100%;
   position: absolute;
-  bottom: 0;
+  bottom: 30px;
   z-index: 0;
   background-color: #ededee;
   background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(#ededee));
